@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.JTextField" name="jTextField1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jTextField1"/>
+      </Properties>
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+      <Border info="org.netbeans.modules.form.compat2.border.MatteColorBorderInfo">
+        <MatteColorBorder/>
+      </Border>
+    </Property>
+  </Properties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="texplacaliq" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="texhingresoliq" min="-2" max="-2" attributes="0"/>
+                  <Component id="txthingresoliq" min="-2" pref="99" max="-2" attributes="0"/>
+                  <Component id="txtplacaliq" min="-2" pref="98" max="-2" attributes="0"/>
+                  <Component id="texvminutoliq" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtvminutoliq" min="-2" pref="107" max="-2" attributes="0"/>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                      <Component id="btbuscarliq" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="98" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="btconfirmarliq" min="-2" max="-2" attributes="0"/>
+                  <Component id="texnvehiculo" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtnvehiculoliq" min="-2" pref="92" max="-2" attributes="0"/>
+                  <Component id="texhsalidaliq" min="-2" max="-2" attributes="0"/>
+                  <Component id="txthsalidaliq" min="-2" pref="99" max="-2" attributes="0"/>
+                  <Component id="txttpagarliq" min="-2" pref="103" max="-2" attributes="0"/>
+                  <Component id="textpagarliq" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="33" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="texplacaliq" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="texnvehiculo" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="txtnvehiculoliq" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtplacaliq" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="texhsalidaliq" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="texhingresoliq" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="txthingresoliq" min="-2" max="-2" attributes="0"/>
+                  <Component id="txthsalidaliq" min="-2" pref="29" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="texvminutoliq" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="textpagarliq" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="txttpagarliq" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtvminutoliq" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="btconfirmarliq" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="btbuscarliq" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="238" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="texplacaliq">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="PLACA"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtplacaliq">
+    </Component>
+    <Component class="javax.swing.JLabel" name="texnvehiculo">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="N.VEHICULO"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtnvehiculoliq">
+    </Component>
+    <Component class="javax.swing.JLabel" name="texhingresoliq">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="HORA INGRESO"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txthingresoliq">
+    </Component>
+    <Component class="javax.swing.JLabel" name="texvminutoliq">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="VALOR MINUTO"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="texhsalidaliq">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="HORA SALIDA"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txthsalidaliq">
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtvminutoliq">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtvminutoliqActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="textpagarliq">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="TOTAL PAGAR"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txttpagarliq">
+    </Component>
+    <Component class="javax.swing.JButton" name="btconfirmarliq">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="CONFIRMAR"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btconfirmarliqActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="btbuscarliq">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="BUSCAR"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btbuscarliqActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
